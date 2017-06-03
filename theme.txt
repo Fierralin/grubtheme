@@ -1,8 +1,9 @@
 # openSUSE grub2 theme
 
-desktop-image: "background.png"
+#desktop-image: "background.png"
+desktop-image: "1366x768.png"
 
-title-text: ""
+title-text: "OPENSUSE LEAP"
 
 terminal-box: "terminal_box_*.png"
 terminal-font: "Gnu Unifont Mono Regular 16"
@@ -15,7 +16,7 @@ terminal-font: "Gnu Unifont Mono Regular 16"
 
   item_font = "DejaVu Sans Bold 14"
   item_color = "#fff"
-  item_height = 32
+  item_height = 36
   item_icon_space = 8
   item_spacing = 2
 
@@ -37,7 +38,7 @@ terminal-font: "Gnu Unifont Mono Regular 16"
   left = 18%
   width = 64%
   top = 85%
-  height = 32
+  height = 36
 
   font = "DejaVu Sans Regular 12"
 
